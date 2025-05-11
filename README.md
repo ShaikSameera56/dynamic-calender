@@ -16,10 +16,6 @@ This is a responsive, interactive calendar built with **HTML, CSS, and JavaScrip
 - CSS3 (Flexbox, Transitions)
 - JavaScript (DOM manipulation, Date object)
 
-## 🖼️ Preview
-
-![Calendar Screenshot](screenshot.png)
-
 ## 📂 How to Use
 
 1. Clone this repository:
